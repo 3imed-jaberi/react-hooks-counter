@@ -5,7 +5,7 @@
 ## What technologies that i used ?
  - Node JS ( Run-Time Environment ) 10.16.0
  - React JS 16.8.6
- - ui-kit ( UI Library ) 3.1.4
+ - ui-kit ( UI Library ) 3.1.7
 
 ## Setup prerequists
  - you have to install NodeJS as it's the service and also to use its package manager npm.
