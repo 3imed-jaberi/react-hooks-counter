@@ -1,7 +1,21 @@
 {
-  "name": "react-counter-with-hooks",
+  "name": "react-hooks-counter",
   "version": "0.1.0",
   "private": true,
+  "description": "react counter app using hooks ( \"hello world\" for beginners ) ⚛️ 🚀 .. ",
+  "author": "Imed Jaberi <imed_jebari@hotmail.fr> (https://github.com/3imed-jaberi)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3imed-jaberi/react-hooks-counter.git"
+  },
+  "homepage": "https://github.com/3imed-jaberi/react-hooks-counter#readme",
+  "keywords": [
+    "react",
+    "hooks",
+    "counter",
+    "react-hooks"
+  ],
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
